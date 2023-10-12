@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.72c7cb6e.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/CSS/文字溢出.md"}'),p={name:"Interview/CSS/文字溢出.md"},o=l("",4),e=[o];function c(t,r,y,F,i,E){return a(),n("div",null,e)}const _=s(p,[["render",c]]);export{d as __pageData,_ as default};
