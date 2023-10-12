@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,d as c}from"./app.eeaca755.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/CSS/盒模型.md"}'),i={name:"Interview/CSS/盒模型.md"},_=c("",6),n=[_];function d(r,a,s,p,l,S){return t(),o("div",null,n)}const u=e(i,[["render",d]]);export{f as __pageData,u as default};
