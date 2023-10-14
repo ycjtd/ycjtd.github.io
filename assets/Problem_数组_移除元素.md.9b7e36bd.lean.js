@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.a84b4934.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Problem/数组/移除元素.md"}'),l={name:"Problem/数组/移除元素.md"},o=p("",9),e=[o];function t(c,r,F,y,i,_){return a(),n("div",null,e)}const m=s(l,[["render",t]]);export{E as __pageData,m as default};
