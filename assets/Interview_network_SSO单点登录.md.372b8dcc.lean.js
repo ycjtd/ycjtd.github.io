@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,d as i}from"./app.78019af7.js";const k=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/network/SSO单点登录.md"}'),l={name:"Interview/network/SSO单点登录.md"},r=i("",10),_=[r];function n(s,c,p,a,u,d){return o(),e("div",null,_)}const g=t(l,[["render",n]]);export{k as __pageData,g as default};

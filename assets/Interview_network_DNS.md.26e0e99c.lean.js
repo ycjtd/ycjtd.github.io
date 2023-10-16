@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as i,d as l}from"./app.78019af7.js";const T=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/network/DNS.md"}'),r={name:"Interview/network/DNS.md"},_=l("",1),a=[_];function o(n,s,c,d,p,m){return i(),t("div",null,a)}const D=e(r,[["render",o]]);export{T as __pageData,D as default};
