@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.58c7925b.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/CSS/两栏布局.md"}'),p={name:"Interview/CSS/两栏布局.md"},o=l("",10),e=[o];function c(t,r,F,y,i,E){return a(),n("div",null,e)}const g=s(p,[["render",c]]);export{d as __pageData,g as default};
