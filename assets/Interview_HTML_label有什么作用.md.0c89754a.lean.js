@@ -1,0 +1,1 @@
+import{_ as s,c as l,o as a,a as o}from"./app.d0de5917.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/HTML/label有什么作用.md"}'),n={name:"Interview/HTML/label有什么作用.md"},t=o("",2),p=[t];function e(c,r,y,i,E,F){return a(),l("div",null,p)}const u=s(n,[["render",e]]);export{d as __pageData,u as default};

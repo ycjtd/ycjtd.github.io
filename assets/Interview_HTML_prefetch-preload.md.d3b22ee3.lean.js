@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as c}from"./app.d0de5917.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/HTML/prefetch-preload.md"}'),r={name:"Interview/HTML/prefetch-preload.md"},d=c("",4),a=[d];function p(s,_,n,l,i,f){return t(),o("div",null,a)}const T=e(r,[["render",p]]);export{m as __pageData,T as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a}from"./app.d0de5917.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/network/CDN.md"}'),o={name:"Interview/network/CDN.md"},n=a("",1),i=[n];function s(E,l,c,b,p,d){return t(),r("div",null,i)}const k=e(o,[["render",s]]);export{h as __pageData,k as default};

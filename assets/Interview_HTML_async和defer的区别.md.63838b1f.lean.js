@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as c}from"./app.d0de5917.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/HTML/async和defer的区别.md"}'),n={name:"Interview/HTML/async和defer的区别.md"},s=c("",7),r=[s];function d(a,_,i,p,l,f){return t(),o("div",null,r)}const m=e(n,[["render",d]]);export{y as __pageData,m as default};

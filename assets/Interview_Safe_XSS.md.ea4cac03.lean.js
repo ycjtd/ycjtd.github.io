@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as c}from"./app.d0de5917.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Interview/Safe/XSS.md"}'),i={name:"Interview/Safe/XSS.md"},s=c("",2),a=[s];function _(r,n,d,l,p,S){return o(),t("div",null,a)}const m=e(i,[["render",_]]);export{f as __pageData,m as default};
